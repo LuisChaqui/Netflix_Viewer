@@ -10,5 +10,11 @@ package com.luis.prueba;
  * @author HP
  */
 public class prueba {
+    public void suma(){
+        int x=3;
+        int y=5;
+        System.out.println("LA SUMA ES: "+(x+y));
+    }
+    
     
 }
