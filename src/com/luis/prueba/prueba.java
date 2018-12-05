@@ -21,6 +21,10 @@ public class prueba {
         int y=5;
         System.out.println("LA RESTA ES: "+(x-y));
     }
-    
+    public void producto(){
+        int x=3;
+        int y=5;
+        System.out.println("LA MUL ES: "+(x*y));
+    }
     
 }
