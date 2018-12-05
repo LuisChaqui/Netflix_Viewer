@@ -16,5 +16,11 @@ public class prueba {
         System.out.println("LA SUMA ES: "+(x+y));
     }
     
+      public void resta(){
+        int x=3;
+        int y=5;
+        System.out.println("LA RESTA ES: "+(x-y));
+    }
+    
     
 }
